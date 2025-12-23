@@ -1,0 +1,15 @@
+C:\Users\pushp\OneDrive\Desktop\session2\session2-part2\bin\Debug\net10.0\session2-part2.exe
+C:\Users\pushp\OneDrive\Desktop\session2\session2-part2\bin\Debug\net10.0\session2-part2.deps.json
+C:\Users\pushp\OneDrive\Desktop\session2\session2-part2\bin\Debug\net10.0\session2-part2.runtimeconfig.json
+C:\Users\pushp\OneDrive\Desktop\session2\session2-part2\bin\Debug\net10.0\session2-part2.dll
+C:\Users\pushp\OneDrive\Desktop\session2\session2-part2\bin\Debug\net10.0\session2-part2.pdb
+C:\Users\pushp\OneDrive\Desktop\session2\session2-part2\obj\Debug\net10.0\session2-part2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pushp\OneDrive\Desktop\session2\session2-part2\obj\Debug\net10.0\session2-part2.AssemblyInfoInputs.cache
+C:\Users\pushp\OneDrive\Desktop\session2\session2-part2\obj\Debug\net10.0\session2-part2.AssemblyInfo.cs
+C:\Users\pushp\OneDrive\Desktop\session2\session2-part2\obj\Debug\net10.0\session2-part2.csproj.CoreCompileInputs.cache
+C:\Users\pushp\OneDrive\Desktop\session2\session2-part2\obj\Debug\net10.0\session2-part2.sourcelink.json
+C:\Users\pushp\OneDrive\Desktop\session2\session2-part2\obj\Debug\net10.0\session2-part2.dll
+C:\Users\pushp\OneDrive\Desktop\session2\session2-part2\obj\Debug\net10.0\refint\session2-part2.dll
+C:\Users\pushp\OneDrive\Desktop\session2\session2-part2\obj\Debug\net10.0\session2-part2.pdb
+C:\Users\pushp\OneDrive\Desktop\session2\session2-part2\obj\Debug\net10.0\session2-part2.genruntimeconfig.cache
+C:\Users\pushp\OneDrive\Desktop\session2\session2-part2\obj\Debug\net10.0\ref\session2-part2.dll
