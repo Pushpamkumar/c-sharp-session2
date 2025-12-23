@@ -1,0 +1,14 @@
+C:\Users\pushp\OneDrive\Desktop\session2\obj\Debug\net10.0\session2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pushp\OneDrive\Desktop\session2\obj\Debug\net10.0\session2.AssemblyInfoInputs.cache
+C:\Users\pushp\OneDrive\Desktop\session2\obj\Debug\net10.0\session2.AssemblyInfo.cs
+C:\Users\pushp\OneDrive\Desktop\session2\obj\Debug\net10.0\session2.csproj.CoreCompileInputs.cache
+C:\Users\pushp\OneDrive\Desktop\session2\bin\Debug\net10.0\session2.exe
+C:\Users\pushp\OneDrive\Desktop\session2\bin\Debug\net10.0\session2.deps.json
+C:\Users\pushp\OneDrive\Desktop\session2\bin\Debug\net10.0\session2.runtimeconfig.json
+C:\Users\pushp\OneDrive\Desktop\session2\bin\Debug\net10.0\session2.dll
+C:\Users\pushp\OneDrive\Desktop\session2\bin\Debug\net10.0\session2.pdb
+C:\Users\pushp\OneDrive\Desktop\session2\obj\Debug\net10.0\session2.dll
+C:\Users\pushp\OneDrive\Desktop\session2\obj\Debug\net10.0\refint\session2.dll
+C:\Users\pushp\OneDrive\Desktop\session2\obj\Debug\net10.0\session2.pdb
+C:\Users\pushp\OneDrive\Desktop\session2\obj\Debug\net10.0\session2.genruntimeconfig.cache
+C:\Users\pushp\OneDrive\Desktop\session2\obj\Debug\net10.0\ref\session2.dll
