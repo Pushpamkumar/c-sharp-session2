@@ -1,0 +1,79 @@
+﻿using System;
+
+namespace OopsSessions.ConstructorEX
+{
+    // Visitor class demonstrates constructor chaining
+    // and object initialization logging
+    public class Visitor
+    {
+        // Auto-implemented property for Visitor Id
+        // int occupies 4 bytes (not 8) in C#
+        public int Id { get; set; }
+
+        // Auto-implemented property for Visitor Name
+        // string is a reference type
+        public string Name { get; set; }
+
+        // Property to store visitor requirement
+        public string Requirement { get; set; }
+
+        // Property to maintain history of object creation
+        // and property initialization
+        public string LogHistory { get; set; }
+
+        /*
+         * Private constructor (commented)
+         * If enabled, it would prevent object creation
+         * from outside the class (Singleton-like behavior)
+         */
+        // private Visitor()
+        // {
+        // }
+
+        // Default constructor
+        // This constructor is always executed first
+        // in constructor chaining
+        public Visitor()
+        {
+            // Logging object creation time
+            LogHistory += $"Object created on {DateTime.Now} {Environment.NewLine}";
+        }
+
+        // Constructor with Id parameter
+        // Calls default constructor using 'this()'
+        public Visitor(int id) : this()
+        {
+            // Logging Id initialization
+            LogHistory += $"Id created at {DateTime.Now} {Environment.NewLine}";
+
+            // Assigning Id value
+            this.Id = id;
+        }
+
+        // Constructor with Id and Name
+        // Calls constructor with Id parameter
+        public Visitor(int id, string name) : this(id)
+        {
+            // Validation: Prevent offensive words in name
+            if (name.ToLower().Contains("idiot"))
+                throw new ArgumentException("Invalid name: offensive word detected");
+
+            // Logging Name initialization
+            LogHistory += $"Name created at {DateTime.Now} {Environment.NewLine}";
+
+            // Assigning Name value
+            this.Name = name;
+        }
+
+        // Constructor with Id, Name, and Requirement
+        // Calls constructor with Id and Name
+        public Visitor(int id, string name, string requirement) : this(id, name)
+        {
+            // Logging Requirement initialization
+            LogHistory += $"Requirement created at {DateTime.Now} {Environment.NewLine}";
+
+            // Assigning Requirement value
+            this.Requirement = requirement;
+        }
+    }
+}
