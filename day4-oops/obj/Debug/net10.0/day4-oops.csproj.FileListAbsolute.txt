@@ -1,0 +1,15 @@
+C:\Users\pushp\OneDrive\Desktop\session2\day4-oops\bin\Debug\net10.0\day4-oops.exe
+C:\Users\pushp\OneDrive\Desktop\session2\day4-oops\bin\Debug\net10.0\day4-oops.deps.json
+C:\Users\pushp\OneDrive\Desktop\session2\day4-oops\bin\Debug\net10.0\day4-oops.runtimeconfig.json
+C:\Users\pushp\OneDrive\Desktop\session2\day4-oops\bin\Debug\net10.0\day4-oops.dll
+C:\Users\pushp\OneDrive\Desktop\session2\day4-oops\bin\Debug\net10.0\day4-oops.pdb
+C:\Users\pushp\OneDrive\Desktop\session2\day4-oops\obj\Debug\net10.0\day4-oops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pushp\OneDrive\Desktop\session2\day4-oops\obj\Debug\net10.0\day4-oops.AssemblyInfoInputs.cache
+C:\Users\pushp\OneDrive\Desktop\session2\day4-oops\obj\Debug\net10.0\day4-oops.AssemblyInfo.cs
+C:\Users\pushp\OneDrive\Desktop\session2\day4-oops\obj\Debug\net10.0\day4-oops.csproj.CoreCompileInputs.cache
+C:\Users\pushp\OneDrive\Desktop\session2\day4-oops\obj\Debug\net10.0\day4-oops.sourcelink.json
+C:\Users\pushp\OneDrive\Desktop\session2\day4-oops\obj\Debug\net10.0\day4-oops.dll
+C:\Users\pushp\OneDrive\Desktop\session2\day4-oops\obj\Debug\net10.0\refint\day4-oops.dll
+C:\Users\pushp\OneDrive\Desktop\session2\day4-oops\obj\Debug\net10.0\day4-oops.pdb
+C:\Users\pushp\OneDrive\Desktop\session2\day4-oops\obj\Debug\net10.0\day4-oops.genruntimeconfig.cache
+C:\Users\pushp\OneDrive\Desktop\session2\day4-oops\obj\Debug\net10.0\ref\day4-oops.dll
