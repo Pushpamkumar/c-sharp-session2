@@ -1,0 +1,15 @@
+C:\Users\pushp\OneDrive\Desktop\session2\day6-delegates\bin\Debug\net10.0\day6-delegates.exe
+C:\Users\pushp\OneDrive\Desktop\session2\day6-delegates\bin\Debug\net10.0\day6-delegates.deps.json
+C:\Users\pushp\OneDrive\Desktop\session2\day6-delegates\bin\Debug\net10.0\day6-delegates.runtimeconfig.json
+C:\Users\pushp\OneDrive\Desktop\session2\day6-delegates\bin\Debug\net10.0\day6-delegates.dll
+C:\Users\pushp\OneDrive\Desktop\session2\day6-delegates\bin\Debug\net10.0\day6-delegates.pdb
+C:\Users\pushp\OneDrive\Desktop\session2\day6-delegates\obj\Debug\net10.0\day6-delegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pushp\OneDrive\Desktop\session2\day6-delegates\obj\Debug\net10.0\day6-delegates.AssemblyInfoInputs.cache
+C:\Users\pushp\OneDrive\Desktop\session2\day6-delegates\obj\Debug\net10.0\day6-delegates.AssemblyInfo.cs
+C:\Users\pushp\OneDrive\Desktop\session2\day6-delegates\obj\Debug\net10.0\day6-delegates.csproj.CoreCompileInputs.cache
+C:\Users\pushp\OneDrive\Desktop\session2\day6-delegates\obj\Debug\net10.0\day6-delegates.sourcelink.json
+C:\Users\pushp\OneDrive\Desktop\session2\day6-delegates\obj\Debug\net10.0\day6-delegates.dll
+C:\Users\pushp\OneDrive\Desktop\session2\day6-delegates\obj\Debug\net10.0\refint\day6-delegates.dll
+C:\Users\pushp\OneDrive\Desktop\session2\day6-delegates\obj\Debug\net10.0\day6-delegates.pdb
+C:\Users\pushp\OneDrive\Desktop\session2\day6-delegates\obj\Debug\net10.0\day6-delegates.genruntimeconfig.cache
+C:\Users\pushp\OneDrive\Desktop\session2\day6-delegates\obj\Debug\net10.0\ref\day6-delegates.dll

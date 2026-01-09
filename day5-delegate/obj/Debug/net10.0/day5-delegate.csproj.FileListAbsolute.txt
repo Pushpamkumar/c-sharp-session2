@@ -1,0 +1,15 @@
+C:\Users\pushp\OneDrive\Desktop\session2\day5-delegate\obj\Debug\net10.0\day5-delegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pushp\OneDrive\Desktop\session2\day5-delegate\obj\Debug\net10.0\day5-delegate.AssemblyInfoInputs.cache
+C:\Users\pushp\OneDrive\Desktop\session2\day5-delegate\obj\Debug\net10.0\day5-delegate.AssemblyInfo.cs
+C:\Users\pushp\OneDrive\Desktop\session2\day5-delegate\obj\Debug\net10.0\day5-delegate.csproj.CoreCompileInputs.cache
+C:\Users\pushp\OneDrive\Desktop\session2\day5-delegate\obj\Debug\net10.0\day5-delegate.sourcelink.json
+C:\Users\pushp\OneDrive\Desktop\session2\day5-delegate\bin\Debug\net10.0\day5-delegate.exe
+C:\Users\pushp\OneDrive\Desktop\session2\day5-delegate\bin\Debug\net10.0\day5-delegate.deps.json
+C:\Users\pushp\OneDrive\Desktop\session2\day5-delegate\bin\Debug\net10.0\day5-delegate.runtimeconfig.json
+C:\Users\pushp\OneDrive\Desktop\session2\day5-delegate\bin\Debug\net10.0\day5-delegate.dll
+C:\Users\pushp\OneDrive\Desktop\session2\day5-delegate\bin\Debug\net10.0\day5-delegate.pdb
+C:\Users\pushp\OneDrive\Desktop\session2\day5-delegate\obj\Debug\net10.0\day5-delegate.dll
+C:\Users\pushp\OneDrive\Desktop\session2\day5-delegate\obj\Debug\net10.0\refint\day5-delegate.dll
+C:\Users\pushp\OneDrive\Desktop\session2\day5-delegate\obj\Debug\net10.0\day5-delegate.pdb
+C:\Users\pushp\OneDrive\Desktop\session2\day5-delegate\obj\Debug\net10.0\day5-delegate.genruntimeconfig.cache
+C:\Users\pushp\OneDrive\Desktop\session2\day5-delegate\obj\Debug\net10.0\ref\day5-delegate.dll
