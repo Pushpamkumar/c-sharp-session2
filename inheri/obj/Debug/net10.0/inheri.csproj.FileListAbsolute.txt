@@ -1,0 +1,15 @@
+C:\Users\pushp\OneDrive\Desktop\capgemini\c-sharp-session2\inheri\bin\Debug\net10.0\inheri.exe
+C:\Users\pushp\OneDrive\Desktop\capgemini\c-sharp-session2\inheri\bin\Debug\net10.0\inheri.deps.json
+C:\Users\pushp\OneDrive\Desktop\capgemini\c-sharp-session2\inheri\bin\Debug\net10.0\inheri.runtimeconfig.json
+C:\Users\pushp\OneDrive\Desktop\capgemini\c-sharp-session2\inheri\bin\Debug\net10.0\inheri.dll
+C:\Users\pushp\OneDrive\Desktop\capgemini\c-sharp-session2\inheri\bin\Debug\net10.0\inheri.pdb
+C:\Users\pushp\OneDrive\Desktop\capgemini\c-sharp-session2\inheri\obj\Debug\net10.0\inheri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pushp\OneDrive\Desktop\capgemini\c-sharp-session2\inheri\obj\Debug\net10.0\inheri.AssemblyInfoInputs.cache
+C:\Users\pushp\OneDrive\Desktop\capgemini\c-sharp-session2\inheri\obj\Debug\net10.0\inheri.AssemblyInfo.cs
+C:\Users\pushp\OneDrive\Desktop\capgemini\c-sharp-session2\inheri\obj\Debug\net10.0\inheri.csproj.CoreCompileInputs.cache
+C:\Users\pushp\OneDrive\Desktop\capgemini\c-sharp-session2\inheri\obj\Debug\net10.0\inheri.sourcelink.json
+C:\Users\pushp\OneDrive\Desktop\capgemini\c-sharp-session2\inheri\obj\Debug\net10.0\inheri.dll
+C:\Users\pushp\OneDrive\Desktop\capgemini\c-sharp-session2\inheri\obj\Debug\net10.0\refint\inheri.dll
+C:\Users\pushp\OneDrive\Desktop\capgemini\c-sharp-session2\inheri\obj\Debug\net10.0\inheri.pdb
+C:\Users\pushp\OneDrive\Desktop\capgemini\c-sharp-session2\inheri\obj\Debug\net10.0\inheri.genruntimeconfig.cache
+C:\Users\pushp\OneDrive\Desktop\capgemini\c-sharp-session2\inheri\obj\Debug\net10.0\ref\inheri.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "jewelleryM1/1.0.0": {
+        "runtime": {
+          "jewelleryM1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "jewelleryM1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

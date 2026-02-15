@@ -1,0 +1,15 @@
+C:\Users\pushp\OneDrive\Desktop\capgemini\c-sharp-session2\jewelleryM1\obj\Debug\net10.0\jewelleryM1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pushp\OneDrive\Desktop\capgemini\c-sharp-session2\jewelleryM1\obj\Debug\net10.0\jewelleryM1.AssemblyInfoInputs.cache
+C:\Users\pushp\OneDrive\Desktop\capgemini\c-sharp-session2\jewelleryM1\obj\Debug\net10.0\jewelleryM1.AssemblyInfo.cs
+C:\Users\pushp\OneDrive\Desktop\capgemini\c-sharp-session2\jewelleryM1\obj\Debug\net10.0\jewelleryM1.csproj.CoreCompileInputs.cache
+C:\Users\pushp\OneDrive\Desktop\capgemini\c-sharp-session2\jewelleryM1\obj\Debug\net10.0\jewelleryM1.sourcelink.json
+C:\Users\pushp\OneDrive\Desktop\capgemini\c-sharp-session2\jewelleryM1\bin\Debug\net10.0\jewelleryM1.exe
+C:\Users\pushp\OneDrive\Desktop\capgemini\c-sharp-session2\jewelleryM1\bin\Debug\net10.0\jewelleryM1.deps.json
+C:\Users\pushp\OneDrive\Desktop\capgemini\c-sharp-session2\jewelleryM1\bin\Debug\net10.0\jewelleryM1.runtimeconfig.json
+C:\Users\pushp\OneDrive\Desktop\capgemini\c-sharp-session2\jewelleryM1\bin\Debug\net10.0\jewelleryM1.dll
+C:\Users\pushp\OneDrive\Desktop\capgemini\c-sharp-session2\jewelleryM1\bin\Debug\net10.0\jewelleryM1.pdb
+C:\Users\pushp\OneDrive\Desktop\capgemini\c-sharp-session2\jewelleryM1\obj\Debug\net10.0\jewelleryM1.dll
+C:\Users\pushp\OneDrive\Desktop\capgemini\c-sharp-session2\jewelleryM1\obj\Debug\net10.0\refint\jewelleryM1.dll
+C:\Users\pushp\OneDrive\Desktop\capgemini\c-sharp-session2\jewelleryM1\obj\Debug\net10.0\jewelleryM1.pdb
+C:\Users\pushp\OneDrive\Desktop\capgemini\c-sharp-session2\jewelleryM1\obj\Debug\net10.0\jewelleryM1.genruntimeconfig.cache
+C:\Users\pushp\OneDrive\Desktop\capgemini\c-sharp-session2\jewelleryM1\obj\Debug\net10.0\ref\jewelleryM1.dll

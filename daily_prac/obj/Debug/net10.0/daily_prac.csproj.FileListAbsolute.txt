@@ -1,0 +1,15 @@
+C:\Users\pushp\OneDrive\Desktop\capgemini\c-sharp-session2\daily_prac\obj\Debug\net10.0\daily_prac.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pushp\OneDrive\Desktop\capgemini\c-sharp-session2\daily_prac\obj\Debug\net10.0\daily_prac.AssemblyInfoInputs.cache
+C:\Users\pushp\OneDrive\Desktop\capgemini\c-sharp-session2\daily_prac\obj\Debug\net10.0\daily_prac.AssemblyInfo.cs
+C:\Users\pushp\OneDrive\Desktop\capgemini\c-sharp-session2\daily_prac\obj\Debug\net10.0\daily_prac.csproj.CoreCompileInputs.cache
+C:\Users\pushp\OneDrive\Desktop\capgemini\c-sharp-session2\daily_prac\obj\Debug\net10.0\daily_prac.sourcelink.json
+C:\Users\pushp\OneDrive\Desktop\capgemini\c-sharp-session2\daily_prac\bin\Debug\net10.0\daily_prac.exe
+C:\Users\pushp\OneDrive\Desktop\capgemini\c-sharp-session2\daily_prac\bin\Debug\net10.0\daily_prac.deps.json
+C:\Users\pushp\OneDrive\Desktop\capgemini\c-sharp-session2\daily_prac\bin\Debug\net10.0\daily_prac.runtimeconfig.json
+C:\Users\pushp\OneDrive\Desktop\capgemini\c-sharp-session2\daily_prac\bin\Debug\net10.0\daily_prac.dll
+C:\Users\pushp\OneDrive\Desktop\capgemini\c-sharp-session2\daily_prac\bin\Debug\net10.0\daily_prac.pdb
+C:\Users\pushp\OneDrive\Desktop\capgemini\c-sharp-session2\daily_prac\obj\Debug\net10.0\daily_prac.dll
+C:\Users\pushp\OneDrive\Desktop\capgemini\c-sharp-session2\daily_prac\obj\Debug\net10.0\refint\daily_prac.dll
+C:\Users\pushp\OneDrive\Desktop\capgemini\c-sharp-session2\daily_prac\obj\Debug\net10.0\daily_prac.pdb
+C:\Users\pushp\OneDrive\Desktop\capgemini\c-sharp-session2\daily_prac\obj\Debug\net10.0\daily_prac.genruntimeconfig.cache
+C:\Users\pushp\OneDrive\Desktop\capgemini\c-sharp-session2\daily_prac\obj\Debug\net10.0\ref\daily_prac.dll

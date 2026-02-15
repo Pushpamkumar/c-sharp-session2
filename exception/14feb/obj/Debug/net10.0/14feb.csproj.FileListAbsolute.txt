@@ -1,0 +1,15 @@
+C:\Users\pushp\OneDrive\Desktop\capgemini\c-sharp-session2\exception\14feb\bin\Debug\net10.0\14feb.exe
+C:\Users\pushp\OneDrive\Desktop\capgemini\c-sharp-session2\exception\14feb\bin\Debug\net10.0\14feb.deps.json
+C:\Users\pushp\OneDrive\Desktop\capgemini\c-sharp-session2\exception\14feb\bin\Debug\net10.0\14feb.runtimeconfig.json
+C:\Users\pushp\OneDrive\Desktop\capgemini\c-sharp-session2\exception\14feb\bin\Debug\net10.0\14feb.dll
+C:\Users\pushp\OneDrive\Desktop\capgemini\c-sharp-session2\exception\14feb\bin\Debug\net10.0\14feb.pdb
+C:\Users\pushp\OneDrive\Desktop\capgemini\c-sharp-session2\exception\14feb\obj\Debug\net10.0\14feb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pushp\OneDrive\Desktop\capgemini\c-sharp-session2\exception\14feb\obj\Debug\net10.0\14feb.AssemblyInfoInputs.cache
+C:\Users\pushp\OneDrive\Desktop\capgemini\c-sharp-session2\exception\14feb\obj\Debug\net10.0\14feb.AssemblyInfo.cs
+C:\Users\pushp\OneDrive\Desktop\capgemini\c-sharp-session2\exception\14feb\obj\Debug\net10.0\14feb.csproj.CoreCompileInputs.cache
+C:\Users\pushp\OneDrive\Desktop\capgemini\c-sharp-session2\exception\14feb\obj\Debug\net10.0\14feb.sourcelink.json
+C:\Users\pushp\OneDrive\Desktop\capgemini\c-sharp-session2\exception\14feb\obj\Debug\net10.0\14feb.dll
+C:\Users\pushp\OneDrive\Desktop\capgemini\c-sharp-session2\exception\14feb\obj\Debug\net10.0\refint\14feb.dll
+C:\Users\pushp\OneDrive\Desktop\capgemini\c-sharp-session2\exception\14feb\obj\Debug\net10.0\14feb.pdb
+C:\Users\pushp\OneDrive\Desktop\capgemini\c-sharp-session2\exception\14feb\obj\Debug\net10.0\14feb.genruntimeconfig.cache
+C:\Users\pushp\OneDrive\Desktop\capgemini\c-sharp-session2\exception\14feb\obj\Debug\net10.0\ref\14feb.dll

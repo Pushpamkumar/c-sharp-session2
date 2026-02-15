@@ -1,0 +1,15 @@
+C:\Users\pushp\OneDrive\Desktop\capgemini\c-sharp-session2\inherit\obj\Debug\net10.0\inherit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pushp\OneDrive\Desktop\capgemini\c-sharp-session2\inherit\obj\Debug\net10.0\inherit.AssemblyInfoInputs.cache
+C:\Users\pushp\OneDrive\Desktop\capgemini\c-sharp-session2\inherit\obj\Debug\net10.0\inherit.AssemblyInfo.cs
+C:\Users\pushp\OneDrive\Desktop\capgemini\c-sharp-session2\inherit\obj\Debug\net10.0\inherit.csproj.CoreCompileInputs.cache
+C:\Users\pushp\OneDrive\Desktop\capgemini\c-sharp-session2\inherit\obj\Debug\net10.0\inherit.sourcelink.json
+C:\Users\pushp\OneDrive\Desktop\capgemini\c-sharp-session2\inherit\bin\Debug\net10.0\inherit.exe
+C:\Users\pushp\OneDrive\Desktop\capgemini\c-sharp-session2\inherit\bin\Debug\net10.0\inherit.deps.json
+C:\Users\pushp\OneDrive\Desktop\capgemini\c-sharp-session2\inherit\bin\Debug\net10.0\inherit.runtimeconfig.json
+C:\Users\pushp\OneDrive\Desktop\capgemini\c-sharp-session2\inherit\bin\Debug\net10.0\inherit.dll
+C:\Users\pushp\OneDrive\Desktop\capgemini\c-sharp-session2\inherit\bin\Debug\net10.0\inherit.pdb
+C:\Users\pushp\OneDrive\Desktop\capgemini\c-sharp-session2\inherit\obj\Debug\net10.0\inherit.dll
+C:\Users\pushp\OneDrive\Desktop\capgemini\c-sharp-session2\inherit\obj\Debug\net10.0\refint\inherit.dll
+C:\Users\pushp\OneDrive\Desktop\capgemini\c-sharp-session2\inherit\obj\Debug\net10.0\inherit.pdb
+C:\Users\pushp\OneDrive\Desktop\capgemini\c-sharp-session2\inherit\obj\Debug\net10.0\inherit.genruntimeconfig.cache
+C:\Users\pushp\OneDrive\Desktop\capgemini\c-sharp-session2\inherit\obj\Debug\net10.0\ref\inherit.dll

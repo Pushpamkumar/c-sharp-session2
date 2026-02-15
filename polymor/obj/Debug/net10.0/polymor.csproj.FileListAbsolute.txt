@@ -1,0 +1,15 @@
+C:\Users\pushp\OneDrive\Desktop\capgemini\c-sharp-session2\polymor\bin\Debug\net10.0\polymor.exe
+C:\Users\pushp\OneDrive\Desktop\capgemini\c-sharp-session2\polymor\bin\Debug\net10.0\polymor.deps.json
+C:\Users\pushp\OneDrive\Desktop\capgemini\c-sharp-session2\polymor\bin\Debug\net10.0\polymor.runtimeconfig.json
+C:\Users\pushp\OneDrive\Desktop\capgemini\c-sharp-session2\polymor\bin\Debug\net10.0\polymor.dll
+C:\Users\pushp\OneDrive\Desktop\capgemini\c-sharp-session2\polymor\bin\Debug\net10.0\polymor.pdb
+C:\Users\pushp\OneDrive\Desktop\capgemini\c-sharp-session2\polymor\obj\Debug\net10.0\polymor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pushp\OneDrive\Desktop\capgemini\c-sharp-session2\polymor\obj\Debug\net10.0\polymor.AssemblyInfoInputs.cache
+C:\Users\pushp\OneDrive\Desktop\capgemini\c-sharp-session2\polymor\obj\Debug\net10.0\polymor.AssemblyInfo.cs
+C:\Users\pushp\OneDrive\Desktop\capgemini\c-sharp-session2\polymor\obj\Debug\net10.0\polymor.csproj.CoreCompileInputs.cache
+C:\Users\pushp\OneDrive\Desktop\capgemini\c-sharp-session2\polymor\obj\Debug\net10.0\polymor.sourcelink.json
+C:\Users\pushp\OneDrive\Desktop\capgemini\c-sharp-session2\polymor\obj\Debug\net10.0\polymor.dll
+C:\Users\pushp\OneDrive\Desktop\capgemini\c-sharp-session2\polymor\obj\Debug\net10.0\refint\polymor.dll
+C:\Users\pushp\OneDrive\Desktop\capgemini\c-sharp-session2\polymor\obj\Debug\net10.0\polymor.pdb
+C:\Users\pushp\OneDrive\Desktop\capgemini\c-sharp-session2\polymor\obj\Debug\net10.0\polymor.genruntimeconfig.cache
+C:\Users\pushp\OneDrive\Desktop\capgemini\c-sharp-session2\polymor\obj\Debug\net10.0\ref\polymor.dll

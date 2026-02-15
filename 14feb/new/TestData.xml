@@ -1,0 +1,19 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <DEPT>
+    <ID>1</ID>
+    <DEPTNAME>MANAGEMENT</DEPTNAME>
+  </DEPT>
+  <DEPT>
+    <ID>2</ID>
+    <DEPTNAME>IT</DEPTNAME>
+  </DEPT>
+  <DEPT>
+    <ID>3</ID>
+    <DEPTNAME>SALES</DEPTNAME>
+  </DEPT>
+  <DEPT>
+    <ID>10</ID>
+    <DEPTNAME>FINANCE</DEPTNAME>
+  </DEPT>
+</NewDataSet>
