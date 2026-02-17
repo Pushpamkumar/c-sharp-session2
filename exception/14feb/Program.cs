@@ -1,27 +1,44 @@
 ﻿using System;
-class Reverse{
+using System.Data;
+using System.Data.SqlClient;
 
-    public string rev(string input){
-        char [] arr= input.ToCharArray();
-        int a=0;
-        int b=input.Length-1;
-        while(a<b){
-            char temp=arr[a];
-            arr[a]=arr[b];
-            arr[b]=temp;
-            a++;
-            b--;
+class Program
+{
+    static void Main()
+    {
+        string connectionString = "Data Source=.;Initial Catalog=pushpam;Integrated Security=True";
+
+        SqlConnection con = new SqlConnection(connectionString);
+
+        string query = "SELECT E.EMPID, E.ENAME, D.DNAME " +
+                       "FROM EMP E INNER JOIN DEPT D " +
+                       "ON E.DEPTID = D.DEPTID";
+
+        SqlDataAdapter adapter = new SqlDataAdapter(query, con);
+
+        SqlCommandBuilder builder = new SqlCommandBuilder(adapter);
+
+        DataSet ds = new DataSet();
+
+        // Fill DataSet (Disconnected Mode)
+        adapter.Fill(ds, "EmpDept");
+
+        // Display Data
+        foreach (DataRow row in ds.Tables["EmpDept"].Rows)
+        {
+            Console.WriteLine(row["EMPID"] + " " +
+                              row["ENAME"] + " " +
+                              row["DNAME"]);
         }
-        return new string(arr);
-    }
-}
 
-class Program{
-    public static void Main(){
-        Reverse n=new Reverse();
-        Console.WriteLine("Enter String :");
-        string b=Console.ReadLine();
-        string push=n.rev(b);
-        Console.WriteLine(push);
+        // Modify Data in DataSet
+        ds.Tables["EmpDept"].Rows[0]["ENAME"] = "UpdatedName";
+
+        // Update Database
+        adapter.Update(ds, "EmpDept");
+
+        Console.WriteLine("Database Updated Successfully");
+
+        Console.ReadLine();
     }
 }
