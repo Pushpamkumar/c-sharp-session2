@@ -1,0 +1,15 @@
+C:\Users\pushp\OneDrive\Desktop\capgemini\c-sharp-session2\feb27\bin\Debug\net10.0\feb27.exe
+C:\Users\pushp\OneDrive\Desktop\capgemini\c-sharp-session2\feb27\bin\Debug\net10.0\feb27.deps.json
+C:\Users\pushp\OneDrive\Desktop\capgemini\c-sharp-session2\feb27\bin\Debug\net10.0\feb27.runtimeconfig.json
+C:\Users\pushp\OneDrive\Desktop\capgemini\c-sharp-session2\feb27\bin\Debug\net10.0\feb27.dll
+C:\Users\pushp\OneDrive\Desktop\capgemini\c-sharp-session2\feb27\bin\Debug\net10.0\feb27.pdb
+C:\Users\pushp\OneDrive\Desktop\capgemini\c-sharp-session2\feb27\obj\Debug\net10.0\feb27.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pushp\OneDrive\Desktop\capgemini\c-sharp-session2\feb27\obj\Debug\net10.0\feb27.AssemblyInfoInputs.cache
+C:\Users\pushp\OneDrive\Desktop\capgemini\c-sharp-session2\feb27\obj\Debug\net10.0\feb27.AssemblyInfo.cs
+C:\Users\pushp\OneDrive\Desktop\capgemini\c-sharp-session2\feb27\obj\Debug\net10.0\feb27.csproj.CoreCompileInputs.cache
+C:\Users\pushp\OneDrive\Desktop\capgemini\c-sharp-session2\feb27\obj\Debug\net10.0\feb27.sourcelink.json
+C:\Users\pushp\OneDrive\Desktop\capgemini\c-sharp-session2\feb27\obj\Debug\net10.0\feb27.dll
+C:\Users\pushp\OneDrive\Desktop\capgemini\c-sharp-session2\feb27\obj\Debug\net10.0\refint\feb27.dll
+C:\Users\pushp\OneDrive\Desktop\capgemini\c-sharp-session2\feb27\obj\Debug\net10.0\feb27.pdb
+C:\Users\pushp\OneDrive\Desktop\capgemini\c-sharp-session2\feb27\obj\Debug\net10.0\feb27.genruntimeconfig.cache
+C:\Users\pushp\OneDrive\Desktop\capgemini\c-sharp-session2\feb27\obj\Debug\net10.0\ref\feb27.dll

@@ -1,0 +1,15 @@
+C:\Users\pushp\OneDrive\Desktop\capgemini\c-sharp-session2\Pharma\obj\Debug\net10.0\Pharma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pushp\OneDrive\Desktop\capgemini\c-sharp-session2\Pharma\obj\Debug\net10.0\Pharma.AssemblyInfoInputs.cache
+C:\Users\pushp\OneDrive\Desktop\capgemini\c-sharp-session2\Pharma\obj\Debug\net10.0\Pharma.AssemblyInfo.cs
+C:\Users\pushp\OneDrive\Desktop\capgemini\c-sharp-session2\Pharma\obj\Debug\net10.0\Pharma.csproj.CoreCompileInputs.cache
+C:\Users\pushp\OneDrive\Desktop\capgemini\c-sharp-session2\Pharma\obj\Debug\net10.0\Pharma.sourcelink.json
+C:\Users\pushp\OneDrive\Desktop\capgemini\c-sharp-session2\Pharma\bin\Debug\net10.0\Pharma.exe
+C:\Users\pushp\OneDrive\Desktop\capgemini\c-sharp-session2\Pharma\bin\Debug\net10.0\Pharma.deps.json
+C:\Users\pushp\OneDrive\Desktop\capgemini\c-sharp-session2\Pharma\bin\Debug\net10.0\Pharma.runtimeconfig.json
+C:\Users\pushp\OneDrive\Desktop\capgemini\c-sharp-session2\Pharma\bin\Debug\net10.0\Pharma.dll
+C:\Users\pushp\OneDrive\Desktop\capgemini\c-sharp-session2\Pharma\bin\Debug\net10.0\Pharma.pdb
+C:\Users\pushp\OneDrive\Desktop\capgemini\c-sharp-session2\Pharma\obj\Debug\net10.0\Pharma.dll
+C:\Users\pushp\OneDrive\Desktop\capgemini\c-sharp-session2\Pharma\obj\Debug\net10.0\refint\Pharma.dll
+C:\Users\pushp\OneDrive\Desktop\capgemini\c-sharp-session2\Pharma\obj\Debug\net10.0\Pharma.pdb
+C:\Users\pushp\OneDrive\Desktop\capgemini\c-sharp-session2\Pharma\obj\Debug\net10.0\Pharma.genruntimeconfig.cache
+C:\Users\pushp\OneDrive\Desktop\capgemini\c-sharp-session2\Pharma\obj\Debug\net10.0\ref\Pharma.dll
